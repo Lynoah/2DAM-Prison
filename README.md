@@ -1,5 +1,5 @@
 # 2DAM-Prison
-Aventura tipo laberinto, desarrollada en Unity 2D. Escapa de la prisión antes de quedarte sin puntos de vida.
+Aventura tipo laberinto, desarrollada en Unity 2D, dibujado estilo pixel art, con toques de aventura conversacional. Escapa de la prisión antes de quedarte sin puntos de vida.
 Muévete con las flechas de dirección.
 
 Mini juego desarrollado como actividad para el ciclo de Desarrollo de Aplicaciones Multiplataforma.
